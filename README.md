@@ -4,3 +4,7 @@ A console-based Java implementation of the "Guess A Number".
 Guess A Number is a simple guessing game where use is supposed to guess the number that you oponent (the computer) has come up with. The probgram randomly selects a number between 1 and 100. It will then ask the player to enter their guess. Each time you enter a number, the computer will tell you whether it is lower or higher thanthe expected number. 
 
 You win the game when your number matches your computer number.
+
+
+Do you want to try the game?
+https://replit.com/@gloryking/GuessANumber#Main.java
